@@ -1,2 +1,2 @@
 /data/
-backend/model/pneumonia_model.h5
+backend/model/*.keras
